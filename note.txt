@@ -1,0 +1,14 @@
+2) Explain overloading and overriding by writing a sample program
+1) Write a program to swap two numbers without using a third variable. [2.5 marks
+3) Write a program to find the second largest number in an array. [2.5 marks]
+5) Write a program or algorithm to implement bubble sort. [5 marks]
+6) Write a JavaScript program to compute the union of two arrays. [5 marks]
+       Sample Data : console.log(union([1, 2, 3], [100, 2, 1, 10]));
+       Output: [1, 2, 3, 10, 100
+
+8) Write a query to find the name (first_name, last_name) of the employees 
+    who have a manager and worked in a USA based department. [2.5 marks]
+    You need to provide SQL query only
+
+11) From the following tables, write a SQL query to find all salespeople
+     and customers located in the city of London. [2.5 marks]
